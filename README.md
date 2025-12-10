@@ -1,4 +1,11 @@
+
+
 # war-of-code - RPG GAME with new style and creative idea.
+
+<p align="center">
+  <img style='width: 70%' alt="war of code" src="./images/1.png" />
+</p>
+
 ## War of Code: Syntax Siege
 The Premise
 In the digital realm of Compilia, a catastrophic event known as "The Great Merge Conflict" has shattered the Source Code of Reality. Fragments of powerful programming languages have materialized as sentient warriors, each believing their syntax holds the key to restoring balance. You are a Git Guardian, a newly awakened warrior who must choose your language allegiance and navigate the sprawling "World of Codes" to either reunite the languages or dominate them all.
@@ -186,3 +193,6 @@ War of Code blends programming humor with genuine strategy, where knowing langua
 
 Would you like me to expand on any particular warrior, region, or game mechanic? The debug console is ready for your commands! 🎮💻
 
+## Contact Me
+If you are interested in my idea, please contact me.<br>
+Gmail: dwpiece@gmail.com
